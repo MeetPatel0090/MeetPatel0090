@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meet Patel
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Android development in Android Studio.
+- 👀 Data Analyst in making.
+- 🌱 I’m currently learning Data Analysis with Google Data ANalysis Profession Certificate.
 - 💞️ I’m looking to collaborate on any entry level project that helps in improving my skills. 
 
 
