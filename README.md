@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meet Patel
 - 👀 Data Analyst in making.
-- 🌱 I’m currently learning Data Analysis with Google Data ANalysis Profession Certificate.
+- 🌱 Google Certified Data Analyst.
 - 💞️ I’m looking to collaborate on any entry level project that helps in improving my skills. 
 
 
